@@ -54,9 +54,6 @@ Run tests in headless mode:
 pytest --headless
 ```
 
-## Folder Structure
-```
-
 ## Writing Your Own Tests
 1. Create a new test file in the `tests/` folder.
 2. Import `pytest` and `selenium`.
@@ -83,5 +80,3 @@ Generate an HTML report:
 pytest --html=report.html
 ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
