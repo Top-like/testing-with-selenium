@@ -1,6 +1,7 @@
 # Testing with Selenium
 
 ## Introduction
+
 This project demonstrates automated testing using Selenium WebDriver. It includes test scripts for web applications to ensure functionality, performance, and usability.
 
 ## Features
